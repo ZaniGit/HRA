@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/ZaniGit/HRA/assets/115500318/72e0053d-c606-49fc-a633-81a8e2a5ee3e.png" width="200px" />
+</div>
+
 # HRA
 UNIVESP PI's Repository For Future Projects <br />
 Sobre o Projeto (HRA) - Univesp P.I 2 <br />
